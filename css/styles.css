@@ -1,0 +1,158 @@
+.intro
+{
+  padding: 100px;
+  background-color: #E1FFB1;
+  margin-top: 0px;
+  position: relative;
+  margin-bottom: 50px;
+
+}
+body
+{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather',sans-serif;
+
+}
+h1
+{
+  margin-top: 0px;
+  font-family: 'Sacramento',cursive;
+  font-size: 5.825rem;
+
+  color: #66BFBF
+}
+
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight:normal;
+  color: #66BFBF
+}
+h3{
+  font-family: 'Montserrat',sans-serif;
+  color: #11999E;
+}
+
+.first
+{
+
+
+}
+.profilephoto{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.cloud2
+{
+  position: absolute;
+  left: 800px;
+  top: 20px;
+}
+.cloud1
+{
+  position: absolute;
+  top: 400px;
+  left: 380px;
+}
+.bot
+{
+  position: absolute;
+  top:8px;
+  left: 20px;
+  border-radius: 100px;
+}
+.infolink1
+{
+  position: absolute;
+  top:8px;
+  right: 240px;
+  color: blue;
+  font-size: 20px;
+
+}
+.infolink2
+{
+  position: absolute;
+  top:8px;
+  right: 160px;
+  color: blue;
+  font-size: 20px;
+}
+.infolink3
+{
+  position: absolute;
+  color: blue;
+  top:8px;
+  right: 80px;
+  font-size: 20px;
+
+}
+.skill-row
+{
+  margin:10px auto;
+  display: inline-block;
+  width: 55%;
+  text-align: left;
+  line-height: 2;
+}
+
+.about
+{
+  background-color: #E1FFB1;
+  height: 200px;
+}
+.footer-link{
+  color: #11999E;
+}
+.pythonimage{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.webimage{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.getintouch{
+margin-bottom: 50px
+}
+.btn{
+  margin-top: 200px;
+  color:white;
+  padding: 10px;
+  text-decoration: none;
+  background-color: #11999E;
+  border-radius: 10%;
+}
+.second
+{
+  padding: 20px;
+  background-color: #66BFBF;
+}
+.copyright{
+  color: white;
+}
+.contactme{
+  margin: 100px;
+}
+hr{
+  width: 10%;
+  border-top: 10px dotted;
+  color: #EAF6F6;
+}
+.introdescription{
+  color: #40514E;
+  width: 20%;
+  text-align: center;
+  position: relative;
+  margin: 0px auto 0px auto;
+}
+.profile{
+  margin-bottom: 50px;
+}
